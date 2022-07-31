@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(227, 214, 197, 0.664);
+}
+
+.exsample {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    width: 50%;
+    height: 150px;
+    background-color: rgb(138, 212, 212);
+    padding: 20px;
+    padding-top: 0;
+    font-size: x-large;
+}
+
+
+.result {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+/*
+ 
+ */
